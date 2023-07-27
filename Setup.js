@@ -1,4 +1,4 @@
-javascript: (function() {
+(function() {
     const DELAY_TIME = 20 * 1000;
     const BUTTON_DELAY = 0.5 * 1000;
     
